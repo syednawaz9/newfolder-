@@ -2,3 +2,6 @@ hii
 hello
 iam sultan
 writing code
+iam 
+writing code 
+in vi
